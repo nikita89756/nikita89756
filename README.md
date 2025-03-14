@@ -22,6 +22,7 @@
 ![Golang](https://skillicons.dev/icons?i=postman,git,docker,nginx,rabbitmq,azure)
 ## 🔭  Проекты
 
+- [HackT1](https://github.com/nikita89756/hackT1) - Репозиторий, в котором была решина задача по созданию умного ассистента для хакатона T1.
 - [Tgbot](https://github.com/nikita89756/Tgbot) - Репозиторий с телграм ботом, написанным на Golang.
 - [Algoritms](https://github.com/nikita89756/Algoritms) - Репозиторий с алгоритмическими задачами
 - [kitg](https://github.com/nikita89756/kitg) - Репозиторий задач по комбиноторике
