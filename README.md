@@ -30,6 +30,9 @@
 - [AvitoAdmin](https://github.com/nikita89756/AvitoAdmin) - Репозиторий с хакатона IT-Purple 2024.
 
 ## 🌟  Достижения
+<div align="center">
+  <img src="images/Purple_Сертификат.jpg" alt="PurpleHack" width="400"/>
+</div>
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
