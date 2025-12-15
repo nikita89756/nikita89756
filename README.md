@@ -33,6 +33,9 @@
 <div align="center">
   <img src="images/Purple_Сертификат.jpg" alt="PurpleHack" width="400"/>
 </div>
+<div align="center">
+  <img src="images/AlphaHack.png" alt="AlphaHack" width="400"/>
+</div>
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](images/Резюме.pdf)
